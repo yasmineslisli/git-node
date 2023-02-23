@@ -1,5 +1,5 @@
 ###### build Docker image called node-app. Execute from root
-#hello again
+#hello everyone
     docker build -t node-app .
     
 ##### push image to repo 
