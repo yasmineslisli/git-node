@@ -16,7 +16,7 @@ logger.info('This never stops');
 logger.info('Logging logging all the way');
 logger.info('I think this is enough');
 logger.info('Hello git');
-logger.info('Log entry for testing ');
+logger.info('Log entry for testing locally');
 logger.info('Hello ensa');
 //logger.info('nope, one more!');
 
